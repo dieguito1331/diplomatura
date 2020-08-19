@@ -46,3 +46,8 @@ jupyter lab build --minimize=False
 ```
 jupyter lab
 ```
+
+## Bases para trabajar
+
+Las bases de datos se deberán descargar del siguiente link: https://bit.ly/3iX8uF9
+La carpeta completa se deberá dejar en la raíz de la carpeta del proyecto
