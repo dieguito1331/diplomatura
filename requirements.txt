@@ -29,6 +29,7 @@ jupyterlab==2.2.5
 jupyterlab-server==1.2.0
 kiwisolver==1.2.0
 lab==6.0
+lightgbm==2.3.1
 MarkupSafe==1.1.1
 matplotlib==3.3.1
 mistune==0.8.4
@@ -58,10 +59,12 @@ QtPy==1.9.0
 requests==2.24.0
 scikit-learn==0.23.2
 scipy==1.5.2
+seaborn==0.10.1
 Send2Trash==1.5.0
 simplejson==3.17.2
 six==1.15.0
 sklearn==0.0
+statsmodels==0.12.0
 terminado==0.8.3
 testpath==0.4.4
 threadpoolctl==2.1.0
